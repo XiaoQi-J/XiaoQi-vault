@@ -5,5 +5,5 @@
 # 2.在VMware中安装Linux（centOS 7）
 CentOS可以到下面的网站下载 阿里开源镜像站：https://developer.aliyun.com/mirror/ 清华大学开源镜像站：https://mirrors.tuna.tsinghua.edu.cn/ 腾讯开源镜像站：https://mirrors.cloud.tencent.com/
 ![[Pasted image 20251126043158.png]]
-3.远程连接Linux系统（FinalShell）
+# 3.远程连接Linux系统（FinalShell）
 [FinalShell SSH工具,服务器管理,远程桌面加速软件,支持Windows,macOS,Linux,版本4.6.3,更新日期2025.5.21 - FinalShell官网](https://www.hostbuf.com/t/988.html)
