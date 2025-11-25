@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Linux/配置虚拟Linux环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "配置虚拟Linux环境"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "未命名 的大纲"
             }
+          },
+          {
+            "id": "6e9a1960588bcea8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +196,9 @@
   },
   "active": "d49f243ab6653054",
   "lastOpenFiles": [
-    "测试.md",
-    "未命名.md"
+    "未命名.base",
+    "Linux/配置虚拟Linux环境.md",
+    "Linux/测试.md",
+    "Linux"
   ]
 }
