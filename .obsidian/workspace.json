@@ -11,12 +11,14 @@
             "id": "d49f243ab6653054",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251126002312.png"
+                "file": "Linux/配置虚拟Linux环境.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251126002312"
+              "icon": "lucide-file",
+              "title": "配置虚拟Linux环境"
             }
           }
         ]
@@ -195,8 +197,8 @@
   },
   "active": "d49f243ab6653054",
   "lastOpenFiles": [
+    "网络配置虚拟网卡.png",
     "Linux/配置虚拟Linux环境.md",
-    "Pasted image 20251126002312.png",
     "未命名.base",
     "Linux/测试.md",
     "Linux"
