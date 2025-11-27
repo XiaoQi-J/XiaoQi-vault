@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/配置虚拟Linux环境.md",
+                "file": "Linux/Linux课程笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置虚拟Linux环境"
+              "title": "Linux课程笔记"
             }
           }
         ]
@@ -34,6 +34,21 @@
         "id": "0ac7e717601c3881",
         "type": "tabs",
         "children": [
+          {
+            "id": "373e336449ffe638",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Linux课程笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Linux课程笔记 的大纲"
+            }
+          },
           {
             "id": "97582fd0fee53e85",
             "type": "leaf",
@@ -74,11 +89,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "right": {
     "id": "97a138db9ba7e051",
@@ -151,21 +167,6 @@
             }
           },
           {
-            "id": "373e336449ffe638",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "未命名.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "未命名 的大纲"
-            }
-          },
-          {
             "id": "6e9a1960588bcea8",
             "type": "leaf",
             "state": {
@@ -176,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,9 +198,11 @@
   },
   "active": "d49f243ab6653054",
   "lastOpenFiles": [
+    "Linux/Linux系统软件安装.md",
+    "Linux/Linux课程笔记.md",
+    "Linux/配置虚拟Linux环境.md",
     "Linux/配图/Pasted image 20251126043158.png",
     "Linux/配图/网络配置虚拟网卡.png",
-    "Linux/配置虚拟Linux环境.md",
     "Linux/配图",
     "Pasted image 20251126003050.png",
     "Pasted image 20251126003019 1.png",
