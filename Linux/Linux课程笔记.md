@@ -11,8 +11,8 @@
 - 路径描述的层次关系同样适用`/`来表示
 - /home/itheima/a.txt，表示根目录下的home文件夹内有itheima文件夹，内有a.txt
 
-
-
+## linux命令基础格式
+![[Pasted image 20251128010653.png]]
 ## ls命令
 
 功能：列出文件夹信息
