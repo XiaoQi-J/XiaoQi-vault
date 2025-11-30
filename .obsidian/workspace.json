@@ -89,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,6 +197,7 @@
   },
   "active": "d49f243ab6653054",
   "lastOpenFiles": [
+    "Pasted image 20251130165755.png",
     "Pasted image 20251128010653.png",
     "Linux/Linux系统软件安装.md",
     "Linux/Linux课程笔记.md",
