@@ -176,8 +176,9 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
 
 
 > rm命令很危险，一定要注意，特别是切换到root用户的时候。
-
-
+![[Pasted image 20251203213212.png]]
+可以通过su(sudo) - root 并输入密码进入root账户
+通过输入exit命令，退回普通用户（临时用root，用完记得退出）
 
 ## which命令
 
