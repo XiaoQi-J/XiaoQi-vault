@@ -718,12 +718,13 @@ itheima ALL=(ALL)       NOPASSWD: ALL
 
 在visudo内配置如上内容，可以让itheima用户，无需密码直接使用`sudo`
 
+## 认知权限信息
 
+![[Pasted image 20251207001045.png]]
 
 ## chmod命令
 
 修改文件、文件夹权限
-
 
 
 语法：`chmod [-R] 权限 参数`
