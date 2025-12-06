@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d59f99c9a7f105",
+        "id": "bf0ecc1af2e82531",
         "type": "tabs",
         "children": [
           {
-            "id": "d49f243ab6653054",
+            "id": "b12933bab45d18f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,8 +195,12 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "d49f243ab6653054",
+  "active": "373e336449ffe638",
   "lastOpenFiles": [
+    "Linux/Linux系统软件安装.md",
+    "Pasted.md",
+    "Linux/Linux课程笔记.md",
+    "Pasted image 20251207002904.png",
     "Pasted image 20251207001708.png",
     "Pasted image 20251207001631.png",
     "Pasted image 20251207001045.png",
@@ -206,10 +210,6 @@
     "Pasted image 20251204162824.png",
     "Pasted image 20251204040926.png",
     "Pasted image 20251203220634.png",
-    "Pasted image 20251203214724.png",
-    "Pasted image 20251203213212.png",
-    "Linux/Linux系统软件安装.md",
-    "Linux/Linux课程笔记.md",
     "Linux/配置虚拟Linux环境.md",
     "Linux/配图",
     "未命名.base",

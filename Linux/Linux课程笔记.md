@@ -721,7 +721,7 @@ itheima ALL=(ALL)       NOPASSWD: ALL
 ## 认知权限信息
 
 ![[Pasted image 20251207001045.png]]
-![[Pasted image 20251207001631.png]]
+![[Pasted image 20251207001631.png|700]]
 **==rwx==**
 rwx：可读可写可执行
 ![[Pasted image 20251207001708.png]]
@@ -741,7 +741,7 @@ rwx：可读可写可执行
 - 参数，被修改的文件、文件夹
 
 - 选项-R，设置文件夹和其内部全部内容一样生效
-
+![[Pasted image 20251207002904.png|725]]
 
 
 ## chown命令
@@ -752,7 +752,7 @@ rwx：可读可写可执行
 
 语法：`chown [-R] [用户][:][用户组] 文件或文件夹`
 
-![image-20221027222326192](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222326.png)
+![image-20221027222326192|725](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222326.png)
 
 
 
