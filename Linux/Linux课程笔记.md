@@ -761,7 +761,15 @@ itheima ALL=(ALL)       NOPASSWD: ALL
 ![image-20221027222407618](https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222407.png)
 
 
+## getent命令
 
+语法:getent passwd
+
+![[Pasted image 20251207000229.png]]
+
+语法：getent group
+
+![[Pasted image 20251207000404.png]]
 ## genenv命令
 
 - `getenv group`，查看系统全部的用户组
