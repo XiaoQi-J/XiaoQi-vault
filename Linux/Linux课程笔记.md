@@ -721,6 +721,11 @@ itheima ALL=(ALL)       NOPASSWD: ALL
 ## 认知权限信息
 
 ![[Pasted image 20251207001045.png]]
+![[Pasted image 20251207001631.png]]
+**==rwx==**
+rwx：可读可写可执行
+![[Pasted image 20251207001708.png]]
+
 
 ## chmod命令
 
