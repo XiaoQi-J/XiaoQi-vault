@@ -524,6 +524,12 @@ FinalShell登陆终端后，默认的工作目录就是用户的HOME目录
    DNS1="192.168.88.2"			# DNS1服务器，和网关一致即可
    ```
 
+## history命令
+
+功能：查看历史输入过的命令
+删除历史记录：history -c
+![[Pasted image 20251207235006.png]]
+![[Pasted image 20251207235454.png]]
 
 
 ## ps命令
